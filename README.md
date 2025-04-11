@@ -1,7 +1,4 @@
 
----
-
-```markdown
 # 📬 Node.js Email Backend Service
 
 A simple backend service built with **Express** and **Nodemailer** to send emails. Designed to be lightweight, environment-configurable, and easily deployable (e.g., on Railway).
