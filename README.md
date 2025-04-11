@@ -109,7 +109,7 @@ POST http://localhost:3000/send
 
 ---
 This a sample of what to expect when the route is hit.Please note it uses gmail smtp service.
-![](https://github.com/eritech98/Portfolio-Backend-Service/blob/main/React.png?raw=true)
+![](https://github.com/eritech98/Portfolio-Backend-Service/blob/main/React.PNG?raw=true)
 
 ## 👤 Author
 
