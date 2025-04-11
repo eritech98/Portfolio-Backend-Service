@@ -122,5 +122,3 @@ This project is licensed under the [ISC License](LICENSE).
 ```
 
 ---
-
-Let me know if you'd like to customize this further — like including a diagram, screenshot, or deployment badge!
