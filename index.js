@@ -24,7 +24,7 @@ const transporter = nodemailer.createTransport({
     }
 });
 
-app.get("/test-email-server",(req,res)=>{
+app.get("/test-email-server", (req, res) => {
    res.send("The email backend is running successfully and ready to send emails!"); 
 });
     
