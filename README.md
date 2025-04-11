@@ -1,4 +1,3 @@
-Here's a clean and clear `README.md` for your Node.js backend service that uses Express, Nodemailer, and environment variables. This will guide anyone on how to install, run, and use the service safely:
 
 ---
 
