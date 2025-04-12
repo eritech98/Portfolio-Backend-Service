@@ -116,11 +116,3 @@ This a sample of what to expect when the route is hit.Please note it uses gmail 
 Made with ❤️ by **Erick Olando**
 
 ---
-
-## 🛡️ License
-
-This project is licensed under the [ISC License](LICENSE).
-
-```
-
----
