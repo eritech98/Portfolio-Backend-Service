@@ -84,19 +84,6 @@ POST http://localhost:3000/send
   "text": "Hello from Erick's email backend!"
 }
 ```
-
----
-
-## 🛠 Deployment Notes
-
-### Railway Deployment
-
-1. Push the code to GitHub
-2. Go to [Railway](https://railway.app)
-3. Click `New Project` → `Deploy from GitHub`
-4. Add your environment variables (`EMAIL_USER`, `EMAIL_PASS`, etc.)
-5. Deploy 🚀
-
 ---
 
 ## 🧾 Scripts
